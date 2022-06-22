@@ -1,0 +1,8 @@
+{
+    "name": "park",
+    "age" : 20,
+    "emails" : [
+        "test@sample.com",
+        "test2@sample.com"
+    ]
+}
